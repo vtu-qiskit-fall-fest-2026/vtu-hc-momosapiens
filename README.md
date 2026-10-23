@@ -225,12 +225,6 @@ python scripts/scoreboard.py                     # Exact Binomial P_forge & live
 python scripts/roc_benchmark.py                  # Regenerate ROC plots & Monte Carlo verification
 ```
 
-### 🎥 Demo Video
-
-The video also shows the banking gateway and SOC prototype and the router guard from our next phase.
-
-- **Recorded Walkthrough (Online Tier):** _https://drive.google.com/file/d/15VNwNQ4LD0LUf1taQzVNR8bT8Ave5tfL/view_
-
 ---
 
 ## 🔁 How to Push Code
