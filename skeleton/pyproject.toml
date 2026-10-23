@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shorlynot-skeleton"
+version = "3.0.0"
+description = "ShorlyNot Quantum Security Skeleton: ShorlyNot-QDS-T1 Teleportation QDS & Q-STDF Threat Engine"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+    { name = "Team Momosapiens (Santhnu & Shivani) — VTU-QFF-HC-0085" }
+]
+dependencies = [
+    "qiskit>=1.0.0",
+    "qiskit-aer>=0.14.0",
+    "cryptography>=42.0.0",
+    "numpy>=1.26.0",
+    "scipy>=1.12.0",
+    "pydantic>=2.6.0",
+    "kyber-py>=1.0.0",
+    "dilithium-py>=1.0.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
