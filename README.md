@@ -17,7 +17,7 @@
 | **Team** | Momosapiens |
 | **Team ID** | `VTU-QFF-HC-0085` |
 | **Tier** | Online |
-| **Track / Category** | Online · Quantum Cryptography, Security & Simulation |
+| **Track / Category** | Track 5 - Quantum Cryptography, Security & Simulation |
 | **Repository** | [vtu-qiskit-fall-fest-2026/vtu-hc-momosapiens](https://github.com/vtu-qiskit-fall-fest-2026/vtu-hc-momosapiens) |
 | **Organisation** | [vtu-qiskit-fall-fest-2026](https://github.com/vtu-qiskit-fall-fest-2026) |
 | **Event** | VTU-QFF Hackathon — VTU-Qiskit Fall Fest 2026 |
@@ -53,7 +53,15 @@
 | 2 | Shivani | [@inavihs124](https://github.com/inavihs124) | Developer · Threat Detection, Banking Gateway & SOC |
 
 ---
+<div align="center">
 
+### 🎥 [Watch the Demo Video](https://drive.google.com/file/d/15VNwNQ4LD0LUf1taQzVNR8bT8Ave5tfL/view) &nbsp;|&nbsp; 📑 [View the Presentation (PPT)](https://drive.google.com/file/d/1pqkkcfvgzl_3-NuiUi2EYMTdCvMZ4e6Q/view?usp=sharing)
+
+*The video also shows the banking gateway and SOC prototype and the router guard from our next phase.*
+
+</div>
+
+---
 ## ❓ Problem Statement
 
 **Problem:** High-value financial transactions rely on classical public-key digital signatures (RSA / ECDSA) that are broken in polynomial time by Shor's algorithm on fault-tolerant quantum computers, while conventional anomaly detectors rely on opaque ML classifiers vulnerable to distribution shift and adversarial evasion. Worse, naive security gateways that freeze an account whenever failed signatures claim its identity allow an attacker to weaponize bad signatures into a denial-of-service lockout against honest users.
