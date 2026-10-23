@@ -55,7 +55,7 @@
 ---
 <div align="center">
 
-### 🎥 [Watch the Demo Video](https://drive.google.com/file/d/15VNwNQ4LD0LUf1taQzVNR8bT8Ave5tfL/view) &nbsp;|&nbsp; 📑 [View the Presentation (PPT)](https://drive.google.com/file/d/1pqkkcfvgzl_3-NuiUi2EYMTdCvMZ4e6Q/view?usp=sharing)
+### 🎥 [Watch the Demo Video](https://www.youtube.com/watch?v=RMJ0KqEvg90) &nbsp;|&nbsp; 📑 [View the Presentation (PPT)](https://drive.google.com/file/d/1pqkkcfvgzl_3-NuiUi2EYMTdCvMZ4e6Q/view?usp=sharing)
 
 *The video also shows the banking gateway and SOC prototype and the router guard from our next phase.*
 
