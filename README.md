@@ -6,12 +6,6 @@
 
 **VTU-QFF-HC-0085** &nbsp;|&nbsp; Tier: **Online**
 
-![Qiskit](https://img.shields.io/badge/Qiskit-AerSimulator%20%7C%20Dynamic%20Circuits-6929C9)
-![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB)
-![PQC](https://img.shields.io/badge/PQC-ML--DSA--44%20%2B%20ML--KEM--768-0EA5E9)
-![Tests](https://img.shields.io/badge/Tests-69%20Passing-10B981)
-![License: MIT](https://img.shields.io/badge/License-MIT-green)
-
 </div>
 
 ---
@@ -227,7 +221,7 @@ python scripts/roc_benchmark.py                  # Regenerate ROC plots & Monte 
 
 The video also shows the banking gateway and SOC prototype and the router guard from our next phase.
 
-- **Recorded Walkthrough (Online Tier):** _Link to 3–5 minute walkthrough video (add unlisted YouTube / Drive link prior to final deadline)_
+- **Recorded Walkthrough (Online Tier):** _https://drive.google.com/file/d/15VNwNQ4LD0LUf1taQzVNR8bT8Ave5tfL/view_
 
 ---
 
