@@ -274,7 +274,7 @@ This repository is the quantum, PQC and detection core. Our next phase builds on
 - [x] Single-command entry point (`python -m src.main`) and full `pytest` suite (`69 passed`) verified
 - [x] Exploration notebook (`notebooks/shorlynot_qds_exploration.ipynb`) committed with **cleared outputs**
 - [x] Refreshed UI screenshots and `AerSimulator` ROC plots embedded in `README.md`
-- [ ] Collaborator invitations accepted by all teammates, PR merged into `main`, and demo video link added
+- [x] Collaborator invitations accepted by all teammates, PR merged into `main`, and demo video link added
 
 ---
 
